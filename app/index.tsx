@@ -40,7 +40,7 @@ export default function Index() {
         <ModalContent>
           <ModalHeader>
             <Heading size="md" className="text-typography-950">
-              Invite your team
+              Invite your teams
             </Heading>
             <ModalCloseButton>
               {/* <Icon
